@@ -1,16 +1,13 @@
 def unsafe?(speed)
 	if speed > 39 && < 60
-	    "baby"
+	    returns true 
 	else
-	    "not a baby"
-	end 
+	   returns false
+	end
 end
 
 
 
 def not_safe?(speed)
-	
+
 end
-	
-
-
